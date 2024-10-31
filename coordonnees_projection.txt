@@ -1,0 +1,19 @@
+﻿A (xa; ya; za)
+B (xb; yb; zb)
+C (xc; yc; zb)
+P (x; y; z) (inconnu)
+
+-→
+AB = (xb - xa; yb - ya; zb - za)
+
+P (xa + xab t; ya + yab t; za + zab t)
+
+CP (xa + xab t - xc; ya + yab t - yc; za + zab t - zc)
+
+-→   -→
+AB • CP = 0
+i.e. xab (xa + xab t - xc) + yab (ya + yab t - yc) + zab (za + zab t - zc) = 0
+i.e. xab (xa - xc) + yab (ya - yc) + zab (za - zc) + (xab² + yab² + zab²) t = 0.
+i.e. t = [xab (xc - xa) + yab (yc - ya) + zab (zc - za)] / (xab² + yab² + zab²)
+
+P (xa + xab t; ya + yab t; za + zab t)
